@@ -1,0 +1,5 @@
+{
+  "name": "Dots and Boxes Strategy",
+  "description": "A classic strategy game where players connect dots to complete boxes and claim territory.",
+  "requestFramePermissions": []
+}
